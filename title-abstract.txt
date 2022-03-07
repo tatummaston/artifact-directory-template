@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Real Time Anomaly Detection in Networks
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Internet companies are expected to deliver the speed their customer has paid for. However, for various reasons such as congestion or connectivity issues, it is inevitable for one to perceive degradations in network quality.  To still ensure the customer is satisfied, certain monitoring systems must be built to inspect the quality of the connection. Our goal is to build a model that would be able to detect, in real time, these regions of networks degradations, so that an appropriate recovery can be enacted to offset these degradations. Our solution is a combination of two anomaly detection methods that successfully detects shifts in the data, based on a rolling window of data it has seen.
