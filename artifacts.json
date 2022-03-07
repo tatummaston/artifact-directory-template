@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/tatummaston/artifact-directory-template",
+    "project-repository": "https://github.com/tatummaston/anomaly_network_detection",
+    "dockerhub-repository": "https://hub.docker.com/repository/docker/jjharsono/capstone_q2",
+    "project-website-url": "https://ctran0615.github.io/anomaly-network-detection/",
+    "project-website-code": "https://github.com/ctran0615/anomaly-network-detection"
 }
